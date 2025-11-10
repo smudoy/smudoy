@@ -112,3 +112,25 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smudoy&theme=radical" height="180"/>
 </p>
+
+---
+
+---
+
+## 📁 **Projects**
+
+### 🎬 Responsive YouTube Clone using HTML & CSS
+
+<p align="left">
+  <a href="https://smudoy.github.io/YouTube-Clone-using-HTML-CSS/" target="_blank">
+    <img src="https://www.dexerto.com/cdn-image/wp-content/uploads/2025/04/17/youtube-thumbnail-change-viewers-angry.jpg?width=1200&quality=60&format=auto" 
+         alt="Responsive YouTube Clone Thumbnail" width="600">
+  </a>
+</p>
+
+<p align="left">
+  🔗 GitHub Link:  
+  <a href="https://github.com/smudoy/YouTube-Clone-using-HTML-CSS" target="_blank">
+    https://github.com/smudoy/YouTube-Clone-using-HTML-CSS
+  </a>
+</p>
