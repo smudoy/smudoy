@@ -129,8 +129,15 @@
 </p>
 
 <p align="left">
-  🔗 GitHub Link:  
+  🔗 GitHub Link: (YouTube Clone)
   <a href="https://github.com/smudoy/YouTube-Clone-using-HTML-CSS" target="_blank">
     https://github.com/smudoy/YouTube-Clone-using-HTML-CSS
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://html-css-javascript-smudoy.netlify.app/" target="_blank">
+    <img src="https://wallpapercave.com/wp/wp7420966.jpg?width=1200&quality=60&format=auto" 
+         alt="Responsive YouTube Clone Thumbnail" width="600">
   </a>
 </p>
